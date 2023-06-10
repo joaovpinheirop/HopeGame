@@ -17,7 +17,5 @@ Codigos adicionados seram totalmentes reduzidos, projeto esta sendo desenvolvido
 
 
 ## Locais Publicados
-<div style="display: inline_block" ><br/>
-<img align="center" alt="Android Studio" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white">
-  </img>
+ Em Desenvolvimento
 </div>
